@@ -10,6 +10,8 @@ This contract uses a reward token, which is an ERC20 token, to distribute incent
 
 ## Contract Address:
 0x795a5A9F260c4C9799320A8070260f0acc3A0999 
+![image](https://github.com/user-attachments/assets/d06a3892-f2af-445c-b30d-de180eef3877)
+
 
 ## Project Vision:
 The vision of the **Social Media Rewards Platform** is to gamify and decentralize education, combining both learning and social media engagement. By rewarding users with ERC20 tokens for completing educational courses and fulfilling social media tasks, we aim to encourage continuous learning while increasing the platform's visibility through user-generated content on social media.
